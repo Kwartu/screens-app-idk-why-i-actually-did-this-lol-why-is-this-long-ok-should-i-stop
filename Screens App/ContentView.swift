@@ -15,7 +15,10 @@ struct ContentView: View {
                 Text("Kaartik")
                     .bold()
                     .font(.largeTitle)
+                Text("Labubu was hererere")
+                    .bold()
                 Button("Say HI"){
+                    
                     
                 }
                 .buttonStyle(.borderedProminent)
