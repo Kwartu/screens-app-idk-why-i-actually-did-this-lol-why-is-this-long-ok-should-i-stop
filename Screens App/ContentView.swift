@@ -15,7 +15,7 @@ struct ContentView: View {
                 Text("Kaartik")
                     .bold()
                     .font(.largeTitle)
-                Text("Labubu was hererere")
+                Text("Labubu was hererereldmvk.dnvfvnvfknkfenrnrtv;grblrtrgrferfrtgergterfq")
                     .bold()
                 Button("Say HI"){
                     
